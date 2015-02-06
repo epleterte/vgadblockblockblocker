@@ -10,7 +10,7 @@
 // @license      BSD-3
 // ==/UserScript==
 
-// put our function in a new script element
+// put our override in a new script element
 var script = document.createElement('script');
 
 // method 1:
