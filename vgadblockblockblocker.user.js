@@ -19,7 +19,7 @@ script.innerHTML = 'window.__AB__ = function() {}';
 
 // method 2:
 // probably better. probably disables the function that makes calls to the (german) adblock detector provider
-script.innerHTML = 'var _0x9f3f = [];var _0xef99x1 = function() {};';
+script.innerHTML = 'var _0x9f3f = [];';
 
 // append to head elements (making it the last)
 document.getElementsByTagName('head')[0].appendChild(script);
