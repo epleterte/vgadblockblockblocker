@@ -2,6 +2,7 @@ vgadblockblockblocker
 =====================
 
 A userstyle that battles adblock detection - made for www.vg.no
+
 vg.no detects adblock use and kindly asks you to reconsider and enable ads
 
 if you don't feel like reconsidering because you are happy with your choice
