@@ -18,7 +18,7 @@ var script = document.createElement('script');
 //script.innerHTML = 'window.__AB__ = function() {}';
 
 // method 2:
-// probably better. probably disables the function that makes calls to the (german) adblock detector provider
+// better. disables the function that makes calls to the (german) adblock detector provider
 script.innerHTML = 'var _0x9f3f = [];';
 
 // append to head elements (making it the last)
