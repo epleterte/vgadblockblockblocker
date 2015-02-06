@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         vgadblockblockblocker
-// @namespace    http://github.com/epleterte
-// @version      0.1
+// @namespace    https://github.com/epleterte/vgadblockblockblocker
+// @version      0.2
 // @description  Blocks the adblock blocker
 // @author       Christian Bryn
 // @include      http://www.vg.no/*
