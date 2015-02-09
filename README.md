@@ -1,7 +1,7 @@
 vgadblockblockblocker
 =====================
 
-A userstyle that battles adblock detection - made for www.vg.no :godmode:
+A userscript that battles adblock detection - made for www.vg.no :godmode:
 
 vg.no detects adblock use and kindly asks you to reconsider and enable ads
 
