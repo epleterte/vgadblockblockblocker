@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         vgadblockblockblocker
 // @namespace    https://github.com/epleterte/vgadblockblockblocker
-// @version      0.3
+// @version      0.4
 // @description  Blocks the adblock blocker
 // @author       Christian Bryn
 // @include      http://www.vg.no/*
@@ -18,7 +18,7 @@ var script = document.createElement('script');
 
 // method 2:
 // better. disables the function that makes calls to the (german) adblock detector provider
-script.innerHTML = 'var _0x9f3f = [];';
+script.innerHTML = 'var _0xf03e = [];';
 
 // append to head elements (making it the last)
 document.getElementsByTagName('head')[0].appendChild(script);
